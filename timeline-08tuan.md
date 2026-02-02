@@ -19,9 +19,9 @@
 
 **1–3 kỹ năng chính:** Java Spring Boot (Backend), C++ WinAPI (System Programming), HTTP/REST Communication
 
-**Bài toán / nội dung áp dụng cụ thể:** Xây dựng hệ thống quản lí phòng máy theo mô hình Client-Server dùng cơ chế Polling (hỏi vòng):
-    + Server (Java): Cung cấp các API để quản lí trạng thái máy (mở/khóa), tính tiền và lưu trữ dữ liệu
-    + Client (C++): Ứng dụng chạy ngầm, định kỳ gọi API lên Server để lấy lệnh và thực thi (mở/khóa) thông qua WinAPI
+**Bài toán / nội dung áp dụng cụ thể:** Xây dựng hệ thống quản lí phòng máy theo mô hình Client-Server dùng cơ chế Polling (hỏi vòng):  
+    + Server (Java): Cung cấp các API để quản lí trạng thái máy (mở/khóa), tính tiền và lưu trữ dữ liệu  
+    + Client (C++): Ứng dụng chạy ngầm, định kỳ gọi API lên Server để lấy lệnh và thực thi (mở/khóa) thông qua WinAPI  
 
 **Link GitHub repository (nếu có):**  
 **Làm việc nhóm (nếu có):** Không
