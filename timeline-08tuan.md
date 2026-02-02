@@ -23,7 +23,7 @@
     + Server (Java): Cung cấp các API để quản lí trạng thái máy (mở/khóa), tính tiền và lưu trữ dữ liệu  
     + Client (C++): Ứng dụng chạy ngầm, định kỳ gọi API lên Server để lấy lệnh và thực thi (mở/khóa) thông qua WinAPI  
 
-**Link GitHub repository (nếu có):** https://github.com/Dusk145/PTIT---Internship
+**Link GitHub repository (nếu có):** https://github.com/Dusk145/PTIT---Internship  
 **Làm việc nhóm (nếu có):** Không
 
 ---
