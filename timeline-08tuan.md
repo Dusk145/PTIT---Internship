@@ -36,7 +36,8 @@
 ### Tuần 1 – Khởi động
 | Nhiệm vụ | Trạng thái | Kết quả đầu ra | Ghi chú |
 |---------|-----------|---------------|--------|
-| Cài đặt môi trường (JDK, XAMPP/MySQL, VS Build Tools C++, Extensions) | [ ] | Screenshot môi trường VS Code | Setup cho cả Client & Server |
+| Cài đặt môi trường (JDK, XAMPP/MySQL, VS Build Tools C++, Extensions) | [] | Screenshot môi trường VS Code | Setup cho cả Client & Server |
+| Khởi tạo project Spring Boot & Test API "Hello World" | [] | Link commit GitHub | Dùng Spring Initializr |
 
 ---
 
